@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deriva", "Deriva\Deriva.csproj", "{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Master|ARM = Master|ARM
+		Master|x86 = Master|x86
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Debug|ARM.Build.0 = Debug|ARM
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Debug|ARM.Deploy.0 = Debug|ARM
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Debug|x86.ActiveCfg = Debug|x86
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Debug|x86.Build.0 = Debug|x86
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Debug|x86.Deploy.0 = Debug|x86
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Master|ARM.ActiveCfg = Master|ARM
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Master|ARM.Build.0 = Master|ARM
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Master|ARM.Deploy.0 = Master|ARM
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Master|x86.ActiveCfg = Master|x86
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Master|x86.Build.0 = Master|x86
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Master|x86.Deploy.0 = Master|x86
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Release|ARM.ActiveCfg = Release|ARM
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Release|ARM.Build.0 = Release|ARM
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Release|ARM.Deploy.0 = Release|ARM
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Release|x86.ActiveCfg = Release|x86
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Release|x86.Build.0 = Release|x86
+		{E4E3DEBE-3038-4AEC-B902-DDCC6FDBB14C}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
