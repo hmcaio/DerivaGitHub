@@ -19,5 +19,5 @@ Descrição:
   Diretório da solução gerada pós Build pela Unity
 
 
-Versão da Unity utilizada no desenvolvimento: Unity 4.5.5f1
+Versão da Unity utilizada no desenvolvimento: Unity Pro 4.5.5f1
 Contato: hmcaio@hotmail.com

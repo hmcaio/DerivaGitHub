@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 2e6e881c84713604d9cd48be2c668f4a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - txtBG: {fileID: 2800000, guid: 2b3faf7ae301f7541a89f1db87a7c7d5, type: 3}
+  - txtBtn: {fileID: 2800000, guid: 9cb63d64e3cba904798eaadc1aedcee1, type: 3}
+  - txtView: {fileID: 2800000, guid: b108517fb0353ad47b352d90f0caefbc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
